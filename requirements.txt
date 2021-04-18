@@ -4,6 +4,8 @@
 # DEVELOPMENT / PRODUCTION
 #
 
+Flask 
+
 python-dotenv
 pgeocode
 pandas
