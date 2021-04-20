@@ -5,6 +5,7 @@
 #
 
 Flask 
+gunicorn # for heroku
 
 python-dotenv
 pgeocode
